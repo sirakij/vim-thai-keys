@@ -34,34 +34,34 @@
 
 :map ๆ q
 :map ไ w
-:map ำ e
-:map พ r
-:map ะ t
-:map ั y
-:map ี u
-:map ร i
-:map น o
-:map ย p
+:map ำ f
+:map พ p
+:map ะ g
+:map ั j
+:map ี l
+:map ร u
+:map น y
+:map ย ;
 :map บ [
 :map ล ]
 :map ฟ a
-:map ห s
-:map ก d
-:map ด f
-:map เ g
+:map ห r
+:map ก s
+:map ด t
+:map เ d
 :map เเ gg
 :map ้ h
-:map ่ j
-:map า k
-:map ส l
-:map ว ;
+:map ่ n
+:map า e
+:map ส i
+:map ว o
 :map ง '
 :map ผ z
 :map ป x
 :map แ c
 :map อ v
 :map ิ b
-:map ื n
+:map ื k
 :map ท m
 :map ม ,
 :map ใ .
@@ -69,34 +69,34 @@
 
 :map ๐ Q
 " :map \" W "key already mapped
-:map ฎ E
-:map ฑ R
-:map ธ T
-:map ํ Y
-:map ๊ U
-:map ณ I
-:map ฯ O
-:map ญ P
+:map ฎ F
+:map ฑ P
+:map ธ G
+:map ํ J
+:map ๊ L
+:map ณ U
+:map ฯ Y
+:map ญ :
 :map ฐ \{
 ":map , \}
 " :map ฅ | " no mapping found
 :map ฤ A
-:map ฆ S
-:map ฏ D
-:map โ F
-:map ฌ G
+:map ฆ R
+:map ฏ S
+:map โ T
+:map ฌ D
 :map ็ H
-:map ๋ J
-:map ษ K
-:map ศ L
-:map ซ :
+:map ๋ N
+:map ษ E
+:map ศ I
+:map ซ O
 " :map \. \" " key already mapped
 " :map \( Z " key already mapped
 " :map \) X " key already mapped
 :map ฉ C
 :map ฮ V
 :map ฺ B
-:map ์ N
+:map ์ K
 " :map ? M " key already mapped
 :map ฒ <
 :map ฬ >
